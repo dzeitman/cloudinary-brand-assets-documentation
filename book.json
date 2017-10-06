@@ -1,0 +1,19 @@
+{
+    "plugins": ["gist", "theme-api" ,"codepen","html5-video"],
+    "pluginsConfig": {
+
+        "theme-api": {
+            "languages": [
+                {
+                    "lang": "js",
+                    "name": "JavaScript",
+                    "default": true
+                },
+                {
+                    "lang": "go",
+                    "name": "Go"
+                }
+            ]
+        }
+    }
+}
